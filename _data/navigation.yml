@@ -1,7 +1,13 @@
 # main links
 main:
+  - title: "학교안내"
+    url: /info/
+  - title: "알림마당"
+    url: /alart/
+  - title: "참여마당"
+    url: /with/
   - title: "About"
-    url: https://chemilk02.github.io/about/
+    url: https://gurigo.github.io/about/
   - title: "Category"
     url: /categories/
   - title: "Sitemap"
