@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: https://chemilk02.github.io/about/
-  - title: "Lecture List"
+  - title: "Category"
     url: /categories/
   - title: "Sitemap"
     url: /sitemap/
