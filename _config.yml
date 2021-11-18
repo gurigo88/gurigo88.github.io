@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Chemilk"
+title                    : "구리고등학교"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Chemilk02"
-description              : "Lecture Summary blog"
-url                      : "https://chemilk02.github.io"
+name                     : "구리고등학교"
+description              : "Guri highschool"
+url                      : "https://gurigo88.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -30,9 +30,9 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "disqus"
+  provider               : #"disqus"
   disqus:
-    shortname            : https-chemilk02-github-io
+    shortname            : #
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -102,15 +102,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chemilk"
+  name             : "Gurigo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a student of MSE"
-  location         : "Seoul, South Korea"
-  email            : chemilk02@gmail.com
+  location         : "Guri, South Korea"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: "chemilk02@gmail.com"
+      #url: ""
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
